@@ -4,22 +4,58 @@ title: "2015-05-06-today-news"
 date: 2015-05-06 16:30:52
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+* 국내지수동향 *
+(5월 4일 17:05 기준)
+KOSPI : 2,132.23(↑5.06)
+KOSDAQ : 677.90(↓11.11)
+국고채 3년 : 1.89 (↑0.07)
+원/달러 :1,079.20(↑6.80)
+원/100엔: 899.55(↑0.24)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+* 오늘의 경제뉴스 *
 
-Jekyll also offers powerful support for code snippets:
+국민연금 소득대체율 미 41%∙
+일 37%...50%로 되올린다는 한국
+- 거꾸로 가는 국민연금 개혁
+- 대책 없이 더 준다는 국회
+- 보험료율 현행 9%서 18.8%로 올려야 가능
+- “보험료 인상 번번이 실패… 
+자식 세대 부담＂
+한국경제 2015.5.4
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+수도권 아파트 청약시장 ‘진격의 30대‘
+- 지난달 분양 18개 단지 전수 
+조사
+- 당첨자 10명 중 4명꼴… 40대 
+앞서
+한국일보 2015.5.4
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+서울 일반 아파트값 상승률 재건축 추월
+서울신문 2015.5.4
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+은행 예∙적금 금리, 기준금리보다 더 많이 내렸다
+한국경제 2015.5.2
+
+중산층 소득 9년 모아야 서울서 ‘내집 마련’ 가능
+문화일보 2015.5.4
+
+카드 ‘잔소비’만 늘었다… 평균 
+결제 금액 3600원 줄어
+
+1분기 카드 결제 평균 금액 4만7973원
+아시아경제 2015.5.4
+
+한국 경제 발목 잡는 ‘불황형 흑자’
+- 37개월째 경상흑자 행진… 수출보다 수입 줄어든 구조 탓
+- 원화가치 상승∙수출경쟁 약화… 내수 부족에 환율 복원력 상실
+경향신문 2015.5.3
+
+알뜰폰 가입자 500만 넘어.. 점유율 8.8%
+서울신문 2015.5.4
+
+
+*오늘의 명언*
+
+많은 사람이 재능의 부족보다 
+결심의 부족으로 실패한다.
+-빌리 선데이-
